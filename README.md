@@ -20,5 +20,5 @@ Il2CppDumper with Zygisk, dump il2cpp data at runtime, can bypass protection, en
 3. Install module in Magisk
 4. Start the game, `dump.cs` will be generated in the `/data/data/GamePackageName/files/` directory
 ## Houkai Gakuen 2 known APK names
-1. CN: com.miHoYo.HSoDv2(.insert server name here if 3rd party server)
+1. CN: com.miHoYo.HSoDv2Original(.insert server name here if 3rd party server)
 2. JP: com.miHoYo.HSoDv2JPOriginalEx
